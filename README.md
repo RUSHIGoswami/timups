@@ -1,5 +1,5 @@
 # timups
-Smart watch Shopping website
-Front-end : **HTML, CSS, JavaScript, Bootstrap**
-Back-end : **PHP**
+Smart watch Shopping website<br>
+Front-end : **HTML, CSS, JavaScript, Bootstrap**<br>
+Back-end : **PHP**<br>
 Database : **MySQL**
